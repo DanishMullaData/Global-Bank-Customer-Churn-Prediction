@@ -52,10 +52,10 @@ Global-Bank-Customer-Churn-Prediction/
 
 📈 Model Performance
 Metric	Score
-Accuracy	0.90
-Precision	1.00
-Recall	0.67
-F1 Score	0.73
+Accuracy	0.87
+Precision	0.75
+Recall	0.51
+F1 Score	0.61
 
 📊 Power BI Dashboard Snippets
 Churn by Geography
